@@ -1,0 +1,5 @@
+Hallo Pak, nama saya Bayu dari Jakarta
+
+Resolusi saya: 
+- Membuat website menggunakan framework ReactJS
+- Bekerja di perusahaan start-up 
